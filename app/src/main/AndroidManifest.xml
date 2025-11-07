@@ -20,6 +20,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ReverseStringActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OddEvenActivity"
+            android:exported="false" />
+
     </application>
 
 </manifest>
