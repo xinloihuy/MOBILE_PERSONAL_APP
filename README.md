@@ -8,7 +8,7 @@ MOBILE_PERSONAL_APP is a personal mobile application developed on **Android Stud
 
 ## User Interface Preview
 
-Below is the web version interface preview:
+Bài Tập 01:
 
 ![UI](./images/app0.png)
 
