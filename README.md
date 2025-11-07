@@ -14,29 +14,7 @@
 
 # 
 
-# \## User Interface BaiTap01 Preview
-
-# Nội dung Bài 1:
-
-# 
-
-# 1\. Cài đặt môi trường làm việc với Android Studio
-
-# 
-
-# 2\. Tạo Project Baitap01 gồm 01 Activity như sau: Hình và thông tin của từng sinh viên, bo tròn hình các em dùng 
-
-# 
-
-# de.hdodenhof.circleimageview.CircleImageView
-
-# 3\. Ẩn thanh tiêu đề của Android
-
-# 4\. Viết chương trình nhập 01 mảng ArrayList kiểu số và in ra Log.d các số lẻ và số chẵn riêng biệt có trong mảng.
-
-# 5\. Viết chương trình nhập 01 chuỗi ký tự bất kỳ từ View (EditText) và in ra View (TextView) và in ra Toast chuỗi đó đảo ngược và in hoa thông qua nút Button. ví dụ: s="I LOVE YOU" -> s="YOU LOVE I"
-
-
+# \## User Interface Preview
 
 # 
 
@@ -100,11 +78,11 @@
 
 # 
 
-#    ```bash
+# &nbsp;  ```bash
 
-#    git clone https://github.com/xinloihuy/MOBILE\_PERSONAL\_APP
+# &nbsp;  git clone https://github.com/xinloihuy/MOBILE\_PERSONAL\_APP
 
-#    ```
+# &nbsp;  ```
 
 # 2\. Open the project in \*\*Android Studio\*\*.
 
@@ -114,9 +92,9 @@
 
 # 
 
-#    \* \*\*Option 1:\*\* Use the \*\*Android Virtual Device (AVD)\*\* emulator.
+# &nbsp;  \* \*\*Option 1:\*\* Use the \*\*Android Virtual Device (AVD)\*\* emulator.
 
-#    \* \*\*Option 2:\*\* Connect a \*\*real Android device\*\* via USB and enable \*\*USB Debugging\*\*.
+# &nbsp;  \* \*\*Option 2:\*\* Connect a \*\*real Android device\*\* via USB and enable \*\*USB Debugging\*\*.
 
 # 5\. Click \*\*Run ▶\*\* in Android Studio to install and launch the app.
 
